@@ -1,0 +1,19 @@
+La Carpeta Archivos:
+-En esta carpeta se encuentran todos los archivos, imagenes, animaciones, sprites, iconos, botones y scripts que se ultilizaron 
+para el videojuego. estan ordenados dentro de sus respectivas carpetas. Aunque hay algunos scripts que estan en el directorio principal.
+Si desea abrir el videojuego con la carpeta debe instalar unity 2018.4 ya que versiones anteriores no podran abrirlo. 
+Aunque si desea ver el codigo o scripts del videojuego solo necesita verlos con un editor los archivos .cs
+
+
+La Carpeta Package:
+-En esta carpeta se encuentra enpaquetado el proyecto para que se pueda importar a su unity sin tener que cargar la carpeta completa
+solo se puede abrir desde unity y se recuerda que debe ser una version de 2018.4 o mayor para que no haya problemas.
+
+
+La Carpeta Ejecutable:
+-En esta se encuentra el ejecutable del videojuego, nada de codigo o recursos. ya que esta compilado y lanzado a PC. si desea ver el codigo
+vaya a la carpeta de archivos.
+
+
+
+
